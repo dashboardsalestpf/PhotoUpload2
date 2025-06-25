@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "photoupload2-459802",
+  "private_key_id": "08f4a31adebdf395a520d86eed1892acbe5c3b07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyx+absJCU1QSd\n7U5UjeWX84KSPf8N8kQsxDuiBmdcKdYKdzDYErA7zOivClCwpe9iYfwpHrd9qXql\nWWUJRJVOy9SgfM3tzpff5UuRnIGnJaaMrHpN3bh067yxDECd8FMDcy4n2rpS74tN\nTJ+w1Zlf8rN0Jg63uBkOKEAZ+IKE8Zr4Cux/MT73UUUnM+3uEBEUWMup17Bjiy6A\nFNqHVGJG7+DWtq6bgmrQ9c/1nyyrV8jIfBsz5JyH19fgvsXlXVUGRPJdwSSVM1UV\nIxNSv5h2g8WhE7XA86aqwI5a2IuEVwU5QhdjFCNjC2hFvsb4STv+3vTb8Bhmwq61\ns00EQqsrAgMBAAECggEAH8P1/Q7DubYZsmfSRaLKuxN4zTw3v8Yeh+e8Ar9piQ4j\n6ksgQhwb9Rwk8cj+6kwpew0W7UV4a9r7oDqAgcOOVehQmM1kF49gG9eVdENfJBBE\nBfW1a3VsS1YBemHHb2iej1vdRRaPiaHnWe4154kkTdCFQytp7QnIZeQP861cn3sz\njCWAS3qACQeqmhgsM7HRePJvXP3Ygb6Mit/NRNG69FA8yjDaFLIOrK6exJdSWZmY\nQxZb1zDGOg5pE/XwX1DAuLp+LoDF9+XZXaqbgQPV/pUz8gWj5FQSd/hIRHsTWFwN\n6vL2CC8wuU6QG4GSF262duSRmqwD5sYXW9mCZYTxxQKBgQD0sygChYCj8/75E6y9\nMd7L17lv6EY3V9x1QpelDLxktlTfi2yKdfnTAAaStvq1yCM0GqC3IpHQkILn4wiS\nEH8Pb1mGkQjN6qowgoU0PYI3w9ciCSDkuwnz/AKTMFNMLHlaJcx9gRcxKtVSiw5x\n0+YF8OOhKJ5MWlE4hIpsI1llbQKBgQC7CXMq2jkvSaKG9NTd1YHfmJYS93V/V52+\nwpDC1l5aDaC60u6A2ABx8T7V7y1R7A4wCl2bgDYbzpos00rBmtN6AFTIzkVe3Ncu\nt+GXYJ4ZUM4yrPEi9eMKhXA/zqwTfD3d7SdhVcmGsVy8WWckw9A5ZNpwId3ZONdh\nJ28zrAqr9wKBgDU8bO3vgYcp5EToJOKcYO5UJoHUNMKBmPLh5AACf1Ih4OEpghm1\nhP6EuOleabj2q8IAMQrmuHZ5miE84XZ1pE8FWKLQFuxFq3UWUEiHQTdEoh9DgSaC\nEq5EG4NONjESU+xq4MxFM3h86yAkJKZbBWYxfDRpk9bkp1r2au8P2bkZAoGBALSW\nSjFM5DvJH/in+cN6O1xVKkmDzlm2keM2XqkQa6cNU2wu7wNOCxf4sw/CUAKyJXyy\n9XCHmTa+A1RWae6Ge7tnCHWd25LdLZK5DkKnkd6li4GYQ3ba7G0jK58gADsMEXvu\nV8B+IQdAxmZA9/qiabCQtOvhdx8d566xcYf1i5Q/AoGBAPKLFf6xl/x99rkYmdxH\nicq2M094KiG9c5HpbynJz6uTwdIw5F+Q8bREVNXgt9F+7NPZc6SGxrENn+J5VDGI\nd+fCc/dhw1yuZJ1T5guC9WuDj9wiUqfOmcR4htUmJC/PgeFw+G4mY0GvJ/KfU0Fs\nOiB2wUWq/cA1lk4ak9G55NP6\n-----END PRIVATE KEY-----\n",
+  "client_email": "photouploadii@photoupload2-459802.iam.gserviceaccount.com",
+  "client_id": "104236460152452233745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/photouploadii%40photoupload2-459802.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
