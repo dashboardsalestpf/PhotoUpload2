@@ -1,2 +1,4 @@
 .streamlit/secrets.toml
 api.json
+# Runtime logs
+deploy_cpanel/*.log
